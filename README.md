@@ -1,7 +1,7 @@
 # Posible tecnologias
 Web: React
 Mobile: React Native? Flutter? PWA?
-Backend: Node + Firebase? 
+Backend: Node + Firebase? NestJS?
 
 
 # Posibles aplicacion
