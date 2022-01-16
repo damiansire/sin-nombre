@@ -50,7 +50,7 @@ Tengo apartamento y busco compañero:
 
 
 Perfil de la persona:
-Redes socales 
+Redes sociales 
 
 
 Cuando hacen el match:
