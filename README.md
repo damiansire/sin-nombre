@@ -1,4 +1,10 @@
-#Posibles aplicacion
+# Posible tecnologias
+Web: React
+Mobile: React Native? Flutter? PWA?
+Backend: Node + Firebase? 
+
+
+# Posibles aplicacion
 
 Objetivo: MATCHEAR PERSONAS que vivir juntas 
 
